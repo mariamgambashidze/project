@@ -1,0 +1,50 @@
+@font-face {
+    font-family: "nino-mtavruli";
+    src: url("../fonts/bpg-nino-mtavruli-webfont.eot");  
+    src: url("../fonts/bpg-nino-mtavruli-webfont.eot?#iefix") format("embedded-opentype"),  
+      url("../fonts/bpg-nino-mtavruli-webfont.svg") format("svg"), 
+      url("../fonts/bpg-nino-mtavruli-webfont.ttf") format("truetype"),  
+      url("../fonts/bpg-nino-mtavruli-webfont.woff") format("woff"), 
+      url("../fonts/bpg-nino-mtavruli-webfont.woff2") format("woff2"); 
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: "Roboto-Bold";
+    src: url("../fonts/Roboto-Bold.eot");  
+    src: url("../fonts/Roboto-Bold.eot?#iefix") format("embedded-opentype"),  
+      url("../fonts/Roboto-Bold.otf") format("opentype"),  
+      url("../fonts/Roboto-Bold.svg") format("svg"), 
+      url("../fonts/Roboto-Bold.ttf") format("truetype"),  
+      url("../fonts/Roboto-Bold.woff") format("woff"), 
+      url("../fonts/Roboto-Bold.woff2") format("woff2"); 
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: "Roboto-Regular";
+    src: url("../fonts/Roboto-Regular.eot");  
+    src: url("../fonts/Roboto-Regular.eot?#iefix") format("embedded-opentype"),  
+      url("../fonts/Roboto-Regular.otf") format("opentype"),  
+      url("../fonts/Roboto-Regular.svg") format("svg"), 
+      url("../fonts/Roboto-Regular.ttf") format("truetype"),  
+      url("../fonts/Roboto-Regular.woff") format("woff"), 
+      url("../fonts/Roboto-Regular.woff2") format("woff2"); 
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: "bpg_ingiri_arial";
+    src: url("../fonts/bpg_ingiri_arial.eot");  
+    src: url("../fonts/bpg_ingiri_arial.eot?#iefix") format("embedded-opentype"),  
+      url("../fonts/BPGIngiriArial.otf") format("opentype"),  
+      url("../fonts/bpg_ingiri_arial.svg") format("svg"), 
+      url("../fonts/bpg_ingiri_arial.ttf") format("truetype"),  
+      url("../fonts/bpg_ingiri_arial.woff") format("woff"), 
+      url("../fonts/bpg_ingiri_arial.woff2") format("woff2"); 
+    font-weight: normal;
+    font-style: normal;
+  }
